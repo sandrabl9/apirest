@@ -1,7 +1,10 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 
-const phones = [
+app.use(cors())
+
+let phones = [
     {
         "id": 1,
         "product image":"https://res.cloudinary.com/sbl9/image/upload/v1645542596/phone1_sp0bfc.jpg",
