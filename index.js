@@ -42,7 +42,7 @@ let phones = [
 
 
 app.get('/', (request, response) => {
-    response.send('<h1>Hello World</h1>');
+    response.send('<h1>json-> http://localhost:3001/api/phones/</h1>');
 
 }); 
 
