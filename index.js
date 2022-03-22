@@ -9,33 +9,37 @@ let phones = [
         "id": 1,
         "image":"https://res.cloudinary.com/sbl9/image/upload/v1645542596/phone1_sp0bfc.jpg",
         "title": "Iphone 1",
-        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "description": "1Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "color": "Blue",
-        "price": "2124.4$"
+        "price": "2124.4$",
+        "url":"http://localhost:3001/api/phones/1"
     },
     {
         "id": 2,
         "image":"https://res.cloudinary.com/sbl9/image/upload/v1645542596/phone2_hi6pwh.jpg",
         "title": "Iphone 2",
-        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "description": "2Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "color": "Black",
-        "price": "134.4$"
+        "price": "134.4$",
+        "url":"http://localhost:3001/api/phones/2"
     },
     {
         "id": 3,
         "image":"https://res.cloudinary.com/sbl9/image/upload/v1645542596/phone3_b1a21f.jpg",
         "title": "Iphone 3",
-        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "description": "3Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "color": "White",
-        "price": "344.6$"
+        "price": "344.6$",
+        "url":"http://localhost:3001/api/phones/3"
     },
     {
         "id": 4,
         "image":"https://res.cloudinary.com/sbl9/image/upload/v1645542596/phone4_dshwu9.jpg",
         "title": "Iphone 4",
-        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "description": "4Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "color": "Gray",
-        "price": "125.4$"
+        "price": "125.4$",
+        "url":"http://localhost:3001/api/phones/4"
     }
 
 ]
